@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+#### I choose a life of adventure and service
+
+- 🔭 I make things happen with tech
+- 🌱 I build impactful digital products that scale
+- 🎨 Design, Engineering and Product
+- ✨ Stack: React, Redux, Javascript, Express, Nodejs, REST, GRAPHQL, MongoDB, MySQL
+
+
 <!--
 **kwabena53/kwabena53** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
