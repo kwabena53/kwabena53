@@ -9,6 +9,7 @@
 - 🔭 Check my youtube [channel](https://www.youtube.com/c/TheKBollinsShow) for tech and entrepreneurship content
 
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=kwabena53&show_icons=true)  
 <!--
 **kwabena53/kwabena53** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
