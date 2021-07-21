@@ -1,11 +1,12 @@
-### Hi there 👋
+### Hi there 👋, I'm Kwabena (aka K-Bollins)
 
 #### I choose a life of adventure and service
 
-- 🔭 I make things happen with tech
-- 🌱 I build impactful digital products that scale
-- 🎨 Design, Engineering and Product
-- ✨ Stack: React, Redux, Javascript, Express, Nodejs, REST, GRAPHQL, MongoDB, MySQL
+🤵🏽‍ I make things happen with tech
+🌱 I build impactful digital products that scale
+🎨 Design, Engineering and Product
+✨ Stack: React, Redux, Javascript, Express, Nodejs, REST, GRAPHQL, MongoDB, MySQL
+🔭 Check my youtube [channel](https://www.youtube.com/c/TheKBollinsShow) for tech and entrepreneurship content
 
 
 <!--
