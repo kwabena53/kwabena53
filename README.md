@@ -6,7 +6,6 @@
 - 🌱 I build impactful digital products that scale
 - 🎨 Design, Engineering and Product
 - ✨ Stack: React, Redux, Javascript, Express, Nodejs, REST, GRAPHQL, MongoDB, MySQL
-- 🔭 Check my youtube [channel](https://www.youtube.com/c/TheKBollinsShow) for tech and entrepreneurship content
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=kwabena53&show_icons=true)  
